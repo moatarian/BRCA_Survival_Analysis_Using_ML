@@ -1,0 +1,5 @@
+Classifier,Training/Testing,Accuracy,Precision,Recall,F1-score,ROC-AUC
+LightGBM,test,0.825,0.894,0.829,0.86,0.919
+LightGBM,train,1.0,1.0,1.0,1.0,1.0
+CatBoost,test,0.829,0.878,0.855,0.867,0.924
+CatBoost,train,0.99,0.997,0.984,0.99,1.0

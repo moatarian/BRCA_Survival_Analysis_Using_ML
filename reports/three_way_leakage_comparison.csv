@@ -1,0 +1,7 @@
+Group,Track,Accuracy,ROC-AUC
+Mastectomy,Paper (reported),0.864,0.84
+Mastectomy,Reproduction (paper-faithful),0.846,0.917
+Mastectomy,Reproduction (leakage-free),0.722,0.753
+BCS,Paper (reported),0.828,0.828
+BCS,Reproduction (paper-faithful),0.873,0.944
+BCS,Reproduction (leakage-free),0.732,0.785

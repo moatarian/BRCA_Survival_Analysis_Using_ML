@@ -1,0 +1,21 @@
+column,dtype,test,statistic,p_value,n_imputed,significantly_different
+cellularity,categorical,Chi-square,61.1876692252279,5.167332972196064e-14,64,True
+chemotherapy,categorical,Chi-square,0.0,1.0,1,False
+er_status_measured_by_ihc,categorical,Chi-square,11.234767442393505,0.0008027916457190754,43,True
+her2_status,categorical,Chi-square,0.0,1.0,1,False
+her2_status_measured_by_snp6,categorical,Chi-square,0.37875765307915615,0.944594849527342,1,False
+hormone_therapy,categorical,Chi-square,0.0,1.0,1,False
+inferred_menopausal_state,categorical,Chi-square,0.0,1.0,1,False
+integrative_cluster,categorical,Chi-square,5.6061632996633,0.8471958083966459,1,False
+lymph_nodes_examined_positive,numeric,Welch t-test,-0.11969454978908747,0.904985821179352,76,False
+neoplasm_histologic_grade,numeric,Welch t-test,1.6874873577404554,0.0939268397957828,88,False
+pam50_claudin_low_subtype,categorical,Chi-square,1.826885113618352,0.9349114867755639,1,False
+patients_vital_status,categorical,Chi-square,1.3646506834454328,0.5054403033680327,1,False
+pr_status,categorical,Chi-square,0.0,1.0,1,False
+primary_tumor_laterality,categorical,Chi-square,95.37728452705477,1.5734884727789705e-22,111,True
+radio_therapy,categorical,Chi-square,0.0,1.0,1,False
+relapse_free_status,categorical,Chi-square,0.0,1.0,1,False
+three_gene_classifier_subtype,categorical,Chi-square,319.61791780111497,5.642337806158068e-69,217,True
+tumor_other_histologic_subtype,categorical,Chi-square,13.036959806831874,0.0712129764174468,44,False
+tumor_size,numeric,Welch t-test,0.15108067979487597,0.8810107046454936,26,False
+tumor_stage,numeric,Welch t-test,-0.05905527960524337,0.9529163924817026,515,False

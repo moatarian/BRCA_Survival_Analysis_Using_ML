@@ -1,0 +1,22 @@
+feature,n_unique,top_category,top_category_pct,n_missing
+integrative_cluster,11,8,15.1,1
+tumor_other_histologic_subtype,8,Ductal/NST,75.3,44
+oncotree_code,8,IDC,77.6,0
+cancer_type_detailed,8,Breast Invasive Ductal Carcinoma,77.6,0
+pam50_claudin_low_subtype,7,LumA,35.3,1
+three_gene_classifier_subtype,4,ER+/HER2- Low Prolif,32.3,217
+her2_status_measured_by_snp6,4,NEUTRAL,72.5,1
+cellularity,3,High,48.7,64
+patients_vital_status,3,Living,42.3,1
+inferred_menopausal_state,2,Post,78.5,1
+chemotherapy,2,NO,79.2,1
+her2_status,2,Negative,87.5,1
+er_status_measured_by_ihc,2,Positve,75.7,43
+radio_therapy,2,YES,59.2,1
+hormone_therapy,2,YES,61.4,1
+er_status,2,Positive,76.1,0
+primary_tumor_laterality,2,Left,49.1,111
+relapse_free_status,2,0:Not Recurred,59.4,1
+pr_status,2,Positive,52.5,1
+cancer_type,1,Breast Cancer,100.0,0
+sex,1,Female,100.0,0

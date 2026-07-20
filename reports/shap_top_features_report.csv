@@ -1,0 +1,21 @@
+Group,Rank,Feature,Mean |SHAP|
+Mastectomy,1,relapse_free_status,1.7917
+Mastectomy,2,overall_survival_months,1.115
+Mastectomy,3,age_at_diagnosis,0.943
+Mastectomy,4,cohort,0.6938
+Mastectomy,5,nottingham_prognostic_index,0.3818
+Mastectomy,6,relapse_free_status_months,0.3091
+Mastectomy,7,tumor_stage,0.1697
+Mastectomy,8,mutation_count,0.1585
+Mastectomy,9,oncotree_code,0.1569
+Mastectomy,10,neoplasm_histologic_grade,0.1487
+BCS,1,relapse_free_status,1.0762
+BCS,2,age_at_diagnosis,0.7227
+BCS,3,overall_survival_months,0.536
+BCS,4,cohort,0.4044
+BCS,5,pam50_claudin_low_subtype,0.0609
+BCS,6,nottingham_prognostic_index,0.0597
+BCS,7,relapse_free_status_months,0.0585
+BCS,8,neoplasm_histologic_grade,0.058
+BCS,9,integrative_cluster,0.052
+BCS,10,lymph_nodes_examined_positive,0.0518

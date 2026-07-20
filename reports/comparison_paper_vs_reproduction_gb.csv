@@ -1,0 +1,21 @@
+Group,Split,Metric,Paper,Reproduction,Abs. Difference
+Mastectomy,Train,Accuracy,0.954,0.928,0.026
+Mastectomy,Train,Precision,0.97,0.945,0.025
+Mastectomy,Train,Recall,0.937,0.908,0.029
+Mastectomy,Train,F1-score,0.953,0.926,0.027
+Mastectomy,Train,ROC-AUC,0.954,0.981,0.027
+Mastectomy,Test,Accuracy,0.864,0.846,0.018
+Mastectomy,Test,Precision,0.923,0.892,0.031
+Mastectomy,Test,Recall,0.89,0.868,0.022
+Mastectomy,Test,F1-score,0.906,0.88,0.026
+Mastectomy,Test,ROC-AUC,0.84,0.917,0.077
+BCS,Train,Accuracy,0.946,0.93,0.016
+BCS,Train,Precision,0.96,0.947,0.013
+BCS,Train,Recall,0.931,0.91,0.021
+BCS,Train,F1-score,0.945,0.928,0.017
+BCS,Train,ROC-AUC,0.946,0.983,0.037
+BCS,Test,Accuracy,0.828,0.873,0.045
+BCS,Test,Precision,0.8,0.922,0.122
+BCS,Test,Recall,0.833,0.797,0.036
+BCS,Test,F1-score,0.816,0.855,0.039
+BCS,Test,ROC-AUC,0.828,0.944,0.116

@@ -1,0 +1,19 @@
+Classifier,Split,Accuracy,Precision,Recall,F1-score,ROC-AUC
+SVM,Train,0.849,0.863,0.831,0.847,0.849
+SVM,Test,0.815,0.787,0.819,0.803,0.816
+KNN,Train,0.839,0.853,0.819,0.836,0.839
+KNN,Test,0.752,0.714,0.764,0.738,0.753
+AdaBoost,Train,0.872,0.887,0.852,0.869,0.872
+AdaBoost,Test,0.771,0.737,0.778,0.757,0.771
+Gradient Boosting,Train,0.946,0.96,0.931,0.945,0.946
+Gradient Boosting,Test,0.828,0.8,0.833,0.816,0.828
+Random Forest,Train,0.801,0.865,0.714,0.782,0.801
+Random Forest,Test,0.752,0.771,0.653,0.707,0.744
+GaussianNB,Train,0.551,0.527,0.991,0.688,0.551
+GaussianNB,Test,0.503,0.48,1.0,0.649,0.541
+Logistic Regression,Train,0.848,0.855,0.837,0.846,0.848
+Logistic Regression,Test,0.803,0.781,0.792,0.786,0.802
+XGBoost,Train,0.931,0.95,0.91,0.929,0.931
+XGBoost,Test,0.815,0.779,0.833,0.805,0.817
+Decision Tree,Train,0.819,0.778,0.895,0.832,0.819
+Decision Tree,Test,0.764,0.688,0.889,0.776,0.774

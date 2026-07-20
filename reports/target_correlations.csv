@@ -1,0 +1,11 @@
+,pearson_r
+relapse_free_status_months,-0.4046176736521805
+overall_survival_months,-0.38104994498350003
+age_at_diagnosis,0.3031147532142772
+tumor_stage,0.19316576839683464
+lymph_nodes_examined_positive,0.16423711394769785
+tumor_size,0.16281563516126443
+cohort,0.1546328343698767
+nottingham_prognostic_index,0.14211450394044237
+mutation_count,0.09210909557129213
+neoplasm_histologic_grade,0.08693714943635603

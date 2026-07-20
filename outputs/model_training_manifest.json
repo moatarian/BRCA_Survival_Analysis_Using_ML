@@ -1,0 +1,26 @@
+{
+  "policy": "paper_faithful",
+  "groups": [
+    "Mastectomy",
+    "BCS"
+  ],
+  "paper_zoo_models": [
+    "SVM",
+    "KNN",
+    "AdaBoost",
+    "Gradient Boosting",
+    "Random Forest",
+    "GaussianNB",
+    "Logistic Regression",
+    "XGBoost",
+    "Decision Tree"
+  ],
+  "extended_zoo_models": [
+    "LightGBM",
+    "CatBoost"
+  ],
+  "best_model_by_group": {
+    "Mastectomy": "gradient_boosting_optuna",
+    "BCS": "gradient_boosting_optuna"
+  }
+}
