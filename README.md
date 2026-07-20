@@ -1,7 +1,5 @@
 # Explainable ML Reproduction — Mastectomy vs. Breast Conserving Surgery Survival (METABRIC)
 
-A Master's-level, publication-quality reproduction of:
-
 > Asfaw, B. B. & Tegaw, E. M. (2025). *Explainable machine learning to compare the overall survival status between patients receiving mastectomy and breast conserving surgeries.* **Scientific Reports**, 15:10700. https://doi.org/10.1038/s41598-025-91064-2
 
 The paper compares Overall Survival Status (Living / Deceased) between breast cancer patients who underwent **Mastectomy** vs. **Breast Conserving Surgery (BCS)**, using nine ML classifiers on the METABRIC cohort and SHAP for explainability. This project reproduces that methodology as faithfully as possible on the raw METABRIC data available locally, documents every necessary substitution, and extends the analysis with a data-leakage audit, a formal survival analysis, and a systematic paper-vs-reproduction comparison.
